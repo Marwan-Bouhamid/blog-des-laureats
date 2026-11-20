@@ -1,3 +1,7 @@
-mkdir -p tutoriels/realisation-projet/initialisation/presentation-marp
+mkdir -p presentations
 
-touch tutoriels/realisation-projet/initialisation/presentation-marp/presentation-marp.command.md
+touch presentations/README.md
+
+touch presentations/presentation-blog.md
+
+touch presentations/presentation-sprint1.md
