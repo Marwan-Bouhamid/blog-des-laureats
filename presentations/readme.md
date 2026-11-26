@@ -8,8 +8,9 @@ Ce dossier regroupe les diaporamas du projet conçus au format Marp Markdown.
 - Permettre l'export direct en PDF ou HTML avec Marp.
 
 ## 2. Contenu du dossier
-- `presentation-blog.md` : Diaporama de présentation générale du projet Blog des lauréats.
-- `presentation-sprint1.md` : Diaporama de restitution du Sprint 1 (dépôt, modélisation, architecture 2 couches).
+- `presentation.md` : Diaporama de présentation générale du projet Blog des lauréats.
+- `presentation-sprint-1.md` : Diaporama de restitution du Sprint 1 (dépôt, modélisation, architecture 2 couches).
+- `presentation-agile-scrum.md` : Diaporama pédagogique sur l'approche Agile et le cadre Scrum, appliqué au Blog des Lauréats.
 
 ## 3. Guide d'utilisation
 - Ouvrir un fichier de présentation dans votre éditeur de code.
